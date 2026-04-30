@@ -1,58 +1,67 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnVobXhiaDFoaHI0aDlqbnljcDd2cHdrY2NsZGRsd25oYWx2NDZqeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ptORQ1g0ye4UcA9DRK/giphy.gif" 
-       style="max-height: 50px; object-fit: cover; object-position: top; border-radius: 10px;" />
-  <h1> ⛓️ Greetings, I'm KinFael ⛓️ </h1>
-  <p align="center">
-    <strong>Fullstack Developer | Laravel Expert | Astro Architect</strong>
+  <!-- Professional Header with Waving Effect -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&secondaryColor=8B0000&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <h1>Hi, I'm Ahmad Kin Hirufael 👋</h1>
+  <p><strong>Astro Architect | Laravel Authority | Modern Web Specialist</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Scalability-8B0000?style=flat-square" />
+    <img src="https://img.shields.io/github/followers/Makima-1214?label=Follow&style=flat-square&color=21262d" />
   </p>
+</div>
 
 ---
 
-### 👁️ Observations (The Core Stack)
-- 🚀 **Modern Frontend:** Architecting ultra-fast sites with **Astro JS** & **Tailwind CSS**.
-- 🏗️ **Robust Backend:** Building powerful systems with **Laravel** & **PHP**.
-- 🛠️ **Fullstack Mastery:** Bridging elegant UIs with solid database structures.
-- 🩸 **Current Directive:** Scaling high-performance web applications.
+### ⚡ Overview
+I am a **Fullstack Developer** dedicated to building high-performance applications. I combine the efficiency of **Astro JS** with the robust power of **Laravel** to deliver seamless digital experiences.
+
+- 🚀 **Frontend:** Expert in **Astro JS** & **Tailwind CSS** for ultra-fast, SEO-friendly interfaces.
+- 🏗️ **Backend:** Specialized in **Laravel** for secure, scalable server-side logic and API systems.
+- 🛠️ **Commitment:** Delivering clean code, optimized performance, and modern UI/UX standards.
 
 ---
 
-### ⛓️ Contract Details (Technical Skills)
+### 🛠️ Professional Stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>The Appearance (Frontend)</h4>
-      <ul>
-        <li><strong>Astro JS</strong> (Island Architecture)</li>
-        <li><strong>Tailwind CSS</strong> (Styling Control)</li>
-        <li>React / JavaScript</li>
-        <li>Responsive Web Design</li>
-      </ul>
+      <strong>Frontend Architecture</strong><br />
+      • Astro JS (SSG/SSR)<br />
+      • Tailwind CSS (Utility-First UI)<br />
+      • TypeScript / React<br />
+      • Responsive Web Mastery
     </td>
     <td width="50%" valign="top">
-      <h4>The Authority (Backend)</h4>
-      <ul>
-        <li><strong>Laravel</strong> (PHP Framework)</li>
-        <li>MySQL / PostgreSQL</li>
-        <li>RESTful API & Sanctum</li>
-        <li>Blade Engine & Livewire</li>
-      </ul>
+      <strong>Backend Authority</strong><br />
+      • Laravel (PHP Framework)<br />
+      • MySQL / PostgreSQL<br />
+      • RESTful API & Sanctum<br />
+      • Serverless Integration
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Tactical Data (GitHub Stats)
-
+### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Makima-1214&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makima-1214&layout=compact&theme=tokyonight&title_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Makima-1214&show_icons=true&theme=transparent&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makima-1214&layout=compact&theme=transparent&title_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Establishing Contact
-- 📧 Email: Ahmadkin809@gmail.com
-- 💼 LinkedIn: -
-- 🌐 Portfolio: -
+### 🔗 Connect With Me
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+<br />
+
+<div align="right">
+  <i>"Efficiency is the foundation of control."</i> 👁️
+</div>
