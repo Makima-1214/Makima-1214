@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnVobXhiaDFoaHI0aDlqbnljcDd2cHdrY2NsZGRsd25oYWx2NDZqeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ptORQ1g0ye4UcA9DRK/giphy.gif" 
-       width="100%" 
        style="max-height: 100px; object-fit: cover; object-position: top; border-radius: 10px;" />
   <h1> ⛓️ Greetings, I'm KinFael ⛓️ </h1>
   <p align="center">
