@@ -55,9 +55,9 @@ I am a **Fullstack Developer** dedicated to building high-performance applicatio
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:ahmadkin808@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <br />
