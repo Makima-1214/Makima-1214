@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="width: 100%; max-height: 250px; overflow: hidden; border-radius: 10px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRyb3M2bHJjN3d0NGY0Ymlmc3FnMWdvczRpZWVnOWZpZjc4ZnZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx6dPRp8SAX3Rm7avu/giphy.gif" width="100%" style="display: block; margin-top: -150px;" />
-  </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnVobXhiaDFoaHI0aDlqbnljcDd2cHdrY2NsZGRsd25oYWx2NDZqeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ptORQ1g0ye4UcA9DRK/giphy.gif" 
+       width="100%" 
+       style="max-height: 300px; object-fit: cover; object-position: top; border-radius: 10px;" />
   <h1> ⛓️ Greetings, I'm KinFael ⛓️ </h1>
   <p align="center">
     <strong>Fullstack Developer | Laravel Expert | Astro Architect</strong>
