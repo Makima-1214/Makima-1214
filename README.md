@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8B0000&height=200&section=header&text=FULLSTACK%20AUTHORITY&fontSize=70&animation=fadeIn" width="100%" />
-
+<img src="https://images.alphacoders.com/128/1286665.png" width="100%" style="border-radius: 10px;" />
   <h1> ⛓️ Greetings, I'm KinFael ⛓️ </h1>
   <p align="center">
     <strong>Fullstack Developer | Laravel Expert | Astro Architect</strong>
