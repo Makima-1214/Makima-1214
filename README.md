@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Header Banner -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRyb3M2bHJjN3d0NGY0Ymlmc3FnMWdvczRpZWVnOWZpZjc4ZnZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx6dPRp8SAX3Rm7avu/giphy.gif" width="100%" style="border-radius: 10px;" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRyb3M2bHJjN3d0NGY0Ymlmc3FnMWdvczRpZWVnOWZpZjc4ZnZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx6dPRp8SAX3Rm7avu/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+</p>
   <h1> ⛓️ Greetings, I'm KinFael ⛓️ </h1>
   <p align="center">
     <strong>Fullstack Developer | Laravel Expert | Astro Architect</strong>
