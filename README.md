@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Professional Header with Waving Effect -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&secondaryColor=8B0000&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h1>Hi, I'm Ahmad Kin Hirufael 👋</h1>
   <p><strong>Astro Architect | Laravel Authority | Modern Web Specialist</strong></p>
